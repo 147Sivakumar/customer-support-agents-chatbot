@@ -1,0 +1,14 @@
+ticket_id,timestamp,customer_name,order_id,complaint,category,urgency,sentiment,kb_sources,response,status,escalation_reason
+TKT-65B38936,2026-11-03T07:17:13+05:30,Anbu,1005,My laptop cannot connect to Wi-Fi.,IT,Medium,Neutral,account_and_login.md; shipping_policy.md,"Please follow these troubleshooting steps to connect your laptop to Wi-Fi:
+
+1. Check if Wi-Fi is enabled on your laptop. Look for a physical switch or function key (like F2 or F12) that may toggle Wi-Fi on or off.
+2. Make sure you are within range of the Wi-Fi network.
+3. Restart your laptop and try reconnecting to the Wi-Fi network.
+4. Check if other devices can connect to the same Wi-Fi network to ensure the issue is not with the network itself.
+5. If the problem persists, you may need to update your network adapter drivers or reset your network settings.
+
+If you need further assistance, consider escalating to human support for more help.",Resolved,
+TKT-7D1E2174,2026-11-03T07:17:44+05:30,Vasanth,1006,My office ID card is not working.,Admin,Medium,Neutral,,I recommend reaching out to the HR or ID card management team to resolve the issue with your office ID card not working.,Escalated,No matching knowledge-base document found; The request requires specific actions or approvals that are outside my capacity.
+TKT-65C42B10,2026-11-03T07:18:05+05:30,Narash,1007,How can I ask about my leave balance?,HR,Medium,Neutral,account_and_login.md,"To inquire about your leave balance, please contact your HR representative directly or refer to your employee self-service portal if available. Unfortunately, I cannot provide that specific information.",Resolved,
+TKT-EEAEFF00,2026-11-03T07:18:33+05:30,Ragu,1008,I need help with my reimbursement claim.,Accountant,Medium,Neutral,,I could not find specific information regarding your reimbursement claim in our company documents. I recommend you reach out to the appropriate department or personnel for further assistance.,Escalated,No matching knowledge-base document found; No specific company policy or guideline found to address reimbursement claims.
+TKT-02507316,2026-11-03T07:19:07+05:30,Tiger,1009,I reported a security breach and it is still unresolved.,Complex Issues,High,Neutral,account_and_login.md,"Thank you for reaching out, Tiger. I understand that you have reported a security breach related to your account, and it remains unresolved. As stated in our company policy, suspicious account activity must be escalated to human support. I recommend that you reach out to our security team directly for immediate assistance with this issue. They will be best equipped to investigate and resolve the security breach you've mentioned.",Escalated,High urgency; The reported security breach requires human review for resolution.
